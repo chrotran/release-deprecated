@@ -1,7 +1,7 @@
 CHROTRAN
 =============
 
-**CHROTRAN** a massively parallel numerical simulator for in situ biogeochemical remediation of heavy metals in heterogeneous aquifers
+**CHROTRAN** is a massively parallel numerical simulator for in situ biogeochemical remediation of heavy metals in heterogeneous aquifers
 
 **CHROTRAN** can simulate sophisticated, multi-scale biogeochemical remediation processes:
 
