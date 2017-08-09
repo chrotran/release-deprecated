@@ -26,4 +26,4 @@ CHROTRAN
 *   Uncertainty quantification
 *   Decision analysis and support
 
-**CHROTRAN** has been developed to address remediation of plumes at the LANL (Los Alamos National Laboratory, NM) groundwater contaminant sites.
+**CHROTRAN** has been developed to address groundwater remediation at the [LANL](http://www.lanl.gov/environment/cleanup) (Los Alamos National Laboratory, NM) legacy waste sites and contaminated areas.
